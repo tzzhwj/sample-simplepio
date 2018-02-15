@@ -24,7 +24,7 @@ For the Blink sample:
 For the Button sample:
 - [Rainbow Hat for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things) or the following individual components:
     - 1 push button
-    - 1 resistor
+    - 1 resistor       
     - 2 jumper wires
     - 1 breadboard
 
